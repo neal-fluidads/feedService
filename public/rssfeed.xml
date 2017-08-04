@@ -1,0 +1,667 @@
+<rss version="2.0">
+<channel>
+<title>North Florida ER Wait Times</title>
+<pubDate>Fri, 04 Aug 2017 03:15:22 -0500</pubDate>
+<link>http://www.hcanorthflorida.com/</link>
+<category>North Florida Division</category>
+<description>
+ER Wait times for each of the North Florida Division Facilities, updated every 30 Minutes
+</description>
+<language>en-us</language>
+<ttl>15</ttl>
+<item>
+<title>Capital Regional</title>
+<link>http://capitalregionalmedicalcenter.com/</link>
+<category>Panhandle</category>
+<pubDate>Fri, 04 Aug 2017 04:14:28 EDT</pubDate>
+<description>12 Mins</description>
+<author>HCA IT&S</author>
+<comments>Capital Regional Medical Center ER Wait Time</comments>
+<phone>(850) 325-5000</phone>
+<address>2626 Capital Medical Blvd, Tallahassee, FL 32308</address>
+<city>Tallahassee</city>
+<state>FL</state>
+<zipCode>32308</zipCode>
+<division>North Florida Division</division>
+<latitude>30.475985999999999</latitude>
+<longitude>-84.231875000000002</longitude>
+<entityBrandingId>30954|Capital-Regional-Medical-Center</entityBrandingId>
+<coid>30954</coid>
+<displayName>Capital Regional Medical Center</displayName>
+</item>
+<item>
+<title>Capital Regional Peds</title>
+<link>
+http://capitalregionalmedicalcenter.com/service/pediatric-emergency-room
+</link>
+<category>Panhandle</category>
+<pubDate>Fri, 04 Aug 2017 04:14:28 EDT</pubDate>
+<description>24 Mins</description>
+<author>HCA IT&S</author>
+<comments>
+Capital Regional Medical Center Pediatrics ER Wait Time
+</comments>
+<phone>(850) 325-5000</phone>
+<address>2626 Capital Medical Blvd, Tallahassee, FL 32308</address>
+<city>Tallahassee</city>
+<state>FL</state>
+<zipCode>32308</zipCode>
+<division>North Florida Division</division>
+<latitude>30.475985999999999</latitude>
+<longitude>-84.231875000000002</longitude>
+<coid>30954</coid>
+</item>
+<item>
+<title>Central FL</title>
+<link>http://www.centralfloridaregional.com</link>
+<category>Orlando</category>
+<pubDate>Fri, 04 Aug 2017 04:14:28 EDT</pubDate>
+<description>10 Mins</description>
+<author>HCA IT&S</author>
+<comments>Central Florida Regional Hospital ER Wait Time</comments>
+<phone>407-321-4500</phone>
+<address>1401 West Seminole Blvd, Sanford, FL 32771</address>
+<city>Sanford</city>
+<state>FL</state>
+<zipCode>32771</zipCode>
+<division>North Florida Division</division>
+<latitude>28.814630000000001</latitude>
+<longitude>-81.283635000000004</longitude>
+<entityBrandingId>30953|Central-Florida-Regional-Hospital</entityBrandingId>
+<coid>30953</coid>
+<displayName>Central Florida Regional Hospital</displayName>
+</item>
+<item>
+<title>Central FL Peds</title>
+<link>http://centralfloridaregional.com</link>
+<category>Orlando</category>
+<pubDate>Fri, 04 Aug 2017 04:14:28 EDT</pubDate>
+<description>14 Mins</description>
+<author>HCA IT&S</author>
+<comments>
+Central Florida Regional Hospital - Pediatric ER Wait Time
+</comments>
+<phone>(407) 321-4500</phone>
+<address>1401 W Seminole Blvd, Sanford, FL 32771</address>
+<city>Sanford</city>
+<state>FL</state>
+<zipCode>32771</zipCode>
+<division>North Florida Division</division>
+<latitude>28.814630000000001</latitude>
+<longitude>-81.283635000000004</longitude>
+<coid>30953</coid>
+</item>
+<item>
+<title>Destin</title>
+<link>http://fwbmc.com/</link>
+<category>Panhandle</category>
+<pubDate>Fri, 04 Aug 2017 03:14:28 CDT</pubDate>
+<description>25 Mins</description>
+<author>HCA IT&S</author>
+<comments>Destin Emergency Care Center ER Wait Time</comments>
+<phone>(850) 837-9194</phone>
+<address>200 Tequesta Drive, Destin, FL 32541</address>
+<city>Destin</city>
+<state>FL</state>
+<zipCode>32541</zipCode>
+<division>North Florida Division</division>
+<latitude>30.387014</latitude>
+<longitude>-86.402545</longitude>
+<entityBrandingId>30909|Fort-Walton-Beach-MC</entityBrandingId>
+<coid>30909</coid>
+<displayName>Destin Emergency Care Center</displayName>
+</item>
+<item>
+<title>Destin Peds</title>
+<link>http://fwbmc.com/</link>
+<category>Panhandle</category>
+<pubDate>Fri, 04 Aug 2017 03:14:28 CDT</pubDate>
+<description>0 Mins</description>
+<author>HCA IT&S</author>
+<comments>
+Destin Emergency Care Center Pediatrics ER Wait Time
+</comments>
+<phone>(850) 837-9194</phone>
+<address>200 Tequesta Drive, Destin, FL 32541</address>
+<city>Destin</city>
+<state>FL</state>
+<zipCode>32541</zipCode>
+<division>North Florida Division</division>
+<latitude>30.387014</latitude>
+<longitude>-86.402545</longitude>
+<coid>30909</coid>
+</item>
+<item>
+<title>Ft Walton Bch Peds</title>
+<link>http://fwbmc.com/</link>
+<category>Panhandle</category>
+<pubDate>Fri, 04 Aug 2017 03:14:28 CDT</pubDate>
+<description>5 Mins</description>
+<author>HCA IT&S</author>
+<comments>Ft Walton Beach Pediatrics ER Wait Time</comments>
+<phone>(850) 863-7607</phone>
+<address>1000 Mar Walt Dr, Fort Walton Beach, FL 32547</address>
+<city>Fort Walton Beach</city>
+<state>FL</state>
+<zipCode>32547</zipCode>
+<division>North Florida Division</division>
+<latitude>30.454469</latitude>
+<longitude>-86.633641999999995</longitude>
+<coid>30909</coid>
+</item>
+<item>
+<title>Ft Walton Beach</title>
+<link>http://fwbmc.com/</link>
+<category>Panhandle</category>
+<pubDate>Fri, 04 Aug 2017 03:14:28 CDT</pubDate>
+<description>4 Mins</description>
+<author>HCA IT&S</author>
+<comments>Fort Walton Beach Medical Center ER Wait Time</comments>
+<phone>(850) 862-1111</phone>
+<address>1000 Mar Walt Dr, Fort Walton Beach, FL 32547</address>
+<city>Fort Walton Beach</city>
+<state>FL</state>
+<zipCode>32547</zipCode>
+<division>North Florida Division</division>
+<latitude>30.454469</latitude>
+<longitude>-86.633641999999995</longitude>
+<entityBrandingId>30909|Fort-Walton-Beach-MC</entityBrandingId>
+<coid>30909</coid>
+<displayName>Fort Walton Beach Medical Center</displayName>
+</item>
+<item>
+<title>Gadsden</title>
+<link>http://www.capitalregionalmedicalcenter.com</link>
+<category>Panhandle</category>
+<pubDate>Fri, 04 Aug 2017 04:14:28 EDT</pubDate>
+<description>6 Mins</description>
+<author>HCA IT&S</author>
+<comments>Gadsden Memorial Campus ER Wait Time</comments>
+<phone>(850) 875-6000</phone>
+<address>23186 Blue Star Highway, Quincy,FL 32351</address>
+<city>Quincy</city>
+<state>FL</state>
+<zipCode>32351</zipCode>
+<division>North Florida Division</division>
+<latitude>30.568767000000001</latitude>
+<longitude>-84.548818999999995</longitude>
+<coid>30954</coid>
+</item>
+<item>
+<title>Gadsden Peds</title>
+<link>http://capitalregionalmedicalcenter.com</link>
+<category>Panhandle</category>
+<pubDate>Fri, 04 Aug 2017 04:14:28 EDT</pubDate>
+<description>5 Mins</description>
+<author>HCA IT&S</author>
+<comments>Gadsden Memorial Campus Pediatrics ER Wait Time</comments>
+<phone>(850) 875-6000</phone>
+<address>23186 Blue Star Highway, Quincy, FL 32351</address>
+<city>Quincy</city>
+<state>FL</state>
+<zipCode>32351</zipCode>
+<division>North Florida Division</division>
+<latitude>30.568767000000001</latitude>
+<longitude>-84.548818999999995</longitude>
+<coid>30954</coid>
+</item>
+<item>
+<title>Gulf Coast</title>
+<link>http://gcmc-pc.com/</link>
+<category>Panhandle</category>
+<pubDate>Fri, 04 Aug 2017 03:14:28 CDT</pubDate>
+<description>10 Mins</description>
+<author>HCA IT&S</author>
+<comments>Gulf Coast Medical Center ER Wait Time</comments>
+<phone>(850) 769-8341</phone>
+<address>449 W 23rd St, Panama City, FL 32405</address>
+<city>Panama City</city>
+<state>FL</state>
+<zipCode>32405</zipCode>
+<division>North Florida Division</division>
+<latitude>30.186568999999999</latitude>
+<longitude>-85.665132</longitude>
+<entityBrandingId>30930|Gulf-Coast-Medical-Center</entityBrandingId>
+<coid>30930</coid>
+<displayName>Gulf Coast Medical Center</displayName>
+</item>
+<item>
+<title>Gulf Coast Peds</title>
+<link>http://gcmc-pc.com/</link>
+<category>Panhandle</category>
+<pubDate>Fri, 04 Aug 2017 03:14:28 CDT</pubDate>
+<description>10 Mins</description>
+<author>HCA IT&S</author>
+<comments>Gulf Coast Pediatrics ER Wait Time</comments>
+<phone>(850) 769-8341</phone>
+<address>449 W 23rd St, Panama City, FL 32405</address>
+<city>Panama City</city>
+<state>FL</state>
+<zipCode>32405</zipCode>
+<division>North Florida Division</division>
+<latitude>30.186569</latitude>
+<longitude>-85.66513199999997</longitude>
+<coid>30930</coid>
+</item>
+<item>
+<title>Hunter's Creek ER</title>
+<link>http://osceolaregional.com</link>
+<category>FLF</category>
+<pubDate>Fri, 04 Aug 2017 04:14:28 EDT</pubDate>
+<description>5 Mins</description>
+<author>HCA IT&S</author>
+<comments>Hunter's Creek ER ER Wait Time</comments>
+<phone>(407) 903-7033</phone>
+<address>12100 John Young Pkwy, Orlando, FL 32837</address>
+<city>Orlando</city>
+<state>FL</state>
+<zipCode>32837</zipCode>
+<division>North Florida Division</division>
+<entityBrandingId>30902|Osceola-Regional-Medical-Center</entityBrandingId>
+<coid>30902</coid>
+<displayName>Hunter's Creek ER</displayName>
+</item>
+<item>
+<title>Hunter's Creek ER Peds</title>
+<link>http://osceolaregional.com</link>
+<category>FLF</category>
+<pubDate>Fri, 04 Aug 2017 04:14:28 EDT</pubDate>
+<description>8 Mins</description>
+<author>HCA IT&S</author>
+<comments>Hunter's Creek ER Pediatrics ER Wait Time</comments>
+<phone>(407) 903-7033</phone>
+<address>12100 John Young Pkwy, Orlando, FL 32837</address>
+<city>Orlando</city>
+<state>FL</state>
+<zipCode>32837</zipCode>
+<division>North Florida Division</division>
+<coid>30902</coid>
+</item>
+<item>
+<title>Lake City</title>
+<link>http://lakecitymedical.com</link>
+<category>Central</category>
+<pubDate>Fri, 04 Aug 2017 04:14:28 EDT</pubDate>
+<description>5 Mins</description>
+<author>HCA IT&S</author>
+<comments>Lake City Medical Center ER Wait Time</comments>
+<phone>(386) 719-9000</phone>
+<address>340 NW Commerce Dr, Lake City, FL 32055</address>
+<city>Lake City</city>
+<state>FL</state>
+<zipCode>32055</zipCode>
+<division>North Florida Division</division>
+<latitude>30.183453</latitude>
+<longitude>-82.687853000000004</longitude>
+<entityBrandingId>37938|Lake-City-Medical-Center</entityBrandingId>
+<coid>37938</coid>
+<displayName>Lake City Medical Center</displayName>
+</item>
+<item>
+<title>Lake City Peds</title>
+<link>http://lakecitymedical.com</link>
+<category>Central</category>
+<pubDate>Fri, 04 Aug 2017 04:14:28 EDT</pubDate>
+<description>0 Mins</description>
+<author>HCA IT&S</author>
+<comments>Lake City Medical Center Pediatrics ER Wait Time</comments>
+<phone>(386) 719-9000</phone>
+<address>340 NW Commerce Dr, Lake City, FL 32055</address>
+<city>Lake City</city>
+<state>FL</state>
+<zipCode>32055</zipCode>
+<division>North Florida Division</division>
+<latitude>30.183453</latitude>
+<longitude>-82.687853000000004</longitude>
+<coid>37938</coid>
+</item>
+<item>
+<title>North Florida</title>
+<link>http://nfrmc.com</link>
+<category>Central</category>
+<pubDate>Fri, 04 Aug 2017 04:14:28 EDT</pubDate>
+<description>7 Mins</description>
+<author>HCA IT&S</author>
+<comments>North Florida Regional Medical Center ER Wait Time</comments>
+<phone>(352) 333-4000</phone>
+<address>6500 W Newberry Rd, Gainesville, FL 32605</address>
+<city>Gainesville</city>
+<state>FL</state>
+<zipCode>32605</zipCode>
+<division>North Florida Division</division>
+<latitude>29.660309000000002</latitude>
+<longitude>-82.411572000000007</longitude>
+<entityBrandingId>30916|North-Florida-Regional-MC</entityBrandingId>
+<coid>30916</coid>
+<displayName>North Florida Regional Medical Center</displayName>
+</item>
+<item>
+<title>North Florida Peds</title>
+<link>http://nfrmc.com</link>
+<category>Central</category>
+<pubDate>Fri, 04 Aug 2017 04:14:28 EDT</pubDate>
+<description>0 Mins</description>
+<author>HCA IT&S</author>
+<comments>
+North Florida Regional Medical Center Pediatrics ER Wait Time
+</comments>
+<phone>(352) 333-4000</phone>
+<address>6500 W Newberry Rd, Gainesville, FL 32605</address>
+<city>Gainesville</city>
+<state>FL</state>
+<zipCode>32605</zipCode>
+<division>North Florida Division</division>
+<latitude>29.660309000000002</latitude>
+<longitude>-82.411572000000007</longitude>
+<coid>30916</coid>
+</item>
+<item>
+<title>Ocala</title>
+<link>http://ocalahealthsystem.com/</link>
+<category>Central</category>
+<pubDate>Fri, 04 Aug 2017 04:14:28 EDT</pubDate>
+<description>10 Mins</description>
+<author>HCA IT&S</author>
+<comments>Ocala Regional Medical Center ER Wait Time</comments>
+<phone>(352) 401-1000</phone>
+<address>1431 SW 1st Ave, Ocala, FL 34471</address>
+<city>Ocala</city>
+<state>FL</state>
+<zipCode>34471</zipCode>
+<division>North Florida Division</division>
+<latitude>29.175532</latitude>
+<longitude>-82.136874000000006</longitude>
+<entityBrandingId>30927|Ocala-Regional-Medical-Center</entityBrandingId>
+<coid>30927</coid>
+<displayName>Ocala Regional Medical Center</displayName>
+</item>
+<item>
+<title>Ocala Pediatric</title>
+<link>http://ocalahealthsystem.com/</link>
+<category>Central</category>
+<pubDate>Fri, 04 Aug 2017 04:14:28 EDT</pubDate>
+<description>0 Mins</description>
+<author>HCA IT&S</author>
+<comments>
+Ocala Regional Medical Center Pediatric ER Wait Time
+</comments>
+<phone>(352) 401-1000</phone>
+<address>1431 SW 1st Ave, Ocala, FL 34471</address>
+<city>Ocala</city>
+<state>FL</state>
+<zipCode>34471</zipCode>
+<division>North Florida Division</division>
+<latitude>29.175532</latitude>
+<longitude>-82.136874000000006</longitude>
+<coid>30927</coid>
+</item>
+<item>
+<title>Osceola</title>
+<link>http://osceolaregional.com</link>
+<category>Orlando</category>
+<pubDate>Fri, 04 Aug 2017 04:14:28 EDT</pubDate>
+<description>6 Mins</description>
+<author>HCA IT&S</author>
+<comments>Osceola Regional Medical Center ER Wait Time</comments>
+<phone>(407) 846-2266</phone>
+<address>700 W Oak St, Kissimmee, FL 34741</address>
+<city>Kissimmee</city>
+<state>FL</state>
+<zipCode>34741</zipCode>
+<division>North Florida Division</division>
+<latitude>28.299623</latitude>
+<longitude>-81.409774999999996</longitude>
+<entityBrandingId>30902|Osceola-Regional-Medical-Center</entityBrandingId>
+<coid>30902</coid>
+<displayName>Osceola Regional Medical Center</displayName>
+</item>
+<item>
+<title>Osceola Peds</title>
+<link>http://osceolaregional.com</link>
+<category>Orlando</category>
+<pubDate>Fri, 04 Aug 2017 04:14:28 EDT</pubDate>
+<description>0 Mins</description>
+<author>HCA IT&S</author>
+<comments>
+Osceola Regional Medical Center - Pediatric ER Wait Time
+</comments>
+<phone>(407) 846-2266</phone>
+<address>700 W Oak St, Kissimmee, FL 34741</address>
+<city>Kissimmee</city>
+<state>FL</state>
+<zipCode>34741</zipCode>
+<division>North Florida Division</division>
+<latitude>28.299623</latitude>
+<longitude>-81.409774999999996</longitude>
+<coid>30902</coid>
+</item>
+<item>
+<title>Oviedo</title>
+<link>http://oviedomedicalcenter.com/</link>
+<category>Orlando</category>
+<pubDate>Fri, 04 Aug 2017 04:14:28 EDT</pubDate>
+<description>5 Mins</description>
+<author>HCA IT&S</author>
+<comments>Oviedo Medical Center ER Wait Time</comments>
+<phone>407-890-2273</phone>
+<address>8300 Red Bug Lake Rd, Oviedo, FL 32765</address>
+<city>Oviedo</city>
+<state>FL</state>
+<zipCode>32765</zipCode>
+<division>North Florida Division</division>
+<latitude>28.657785000000001</latitude>
+<longitude>-81.228116999999997</longitude>
+<entityBrandingId>26750|Oviedo-Medical-Center</entityBrandingId>
+<coid>26750</coid>
+<displayName>Oviedo Medical Center</displayName>
+</item>
+<item>
+<title>Oviedo Peds</title>
+<link>http://oviedomedicalcenter.com/</link>
+<category>Orlando</category>
+<pubDate>Fri, 04 Aug 2017 04:14:28 EDT</pubDate>
+<description>0 Mins</description>
+<author>HCA IT&S</author>
+<comments>Oviedo Medical Center Pediatrics ER Wait Time</comments>
+<phone>407-890-2273</phone>
+<address>8300 Red Bug Lake Rd, Oviedo, FL 32765</address>
+<city>Oviedo</city>
+<state>FL</state>
+<zipCode>32765</zipCode>
+<division>North Florida Division</division>
+<latitude>28.657785000000001</latitude>
+<longitude>-81.228116999999997</longitude>
+<coid>30953</coid>
+</item>
+<item>
+<title>Poinciana Medical Center</title>
+<link>http://poincianamedicalcenter.com/</link>
+<category>Orlando (FLF)</category>
+<pubDate>Fri, 04 Aug 2017 04:14:28 EDT</pubDate>
+<description>4 Mins</description>
+<author>HCA IT&S</author>
+<comments>Poinciana Medical Center ER Wait Time</comments>
+<phone>(407) 530-2000</phone>
+<address>325 Cypress Pkwy, Kissimmee, FL 34758</address>
+<city>Kissimmee</city>
+<state>FL</state>
+<zipCode>34758</zipCode>
+<division>North Florida Division</division>
+<latitude>28.1426721</latitude>
+<longitude>-81.47619629999997</longitude>
+<entityBrandingId>26450|Poinciana-Medical-Center</entityBrandingId>
+<coid>26450</coid>
+<displayName>Poinciana Medical Center</displayName>
+</item>
+<item>
+<title>Poinciana Medical Center Peds</title>
+<link>http://poincianamedicalcenter.com/</link>
+<category>Orlando (FLF)</category>
+<pubDate>Fri, 04 Aug 2017 04:14:28 EDT</pubDate>
+<description>2 Mins</description>
+<author>HCA IT&S</author>
+<comments>Poinciana Medical Center Pediatrics ER Wait Time</comments>
+<phone>(407) 530-2000</phone>
+<address>325 Cypress Pkwy, Kissimmee, FL 34758</address>
+<city>Kissimmee</city>
+<state>FL</state>
+<zipCode>34758</zipCode>
+<division>North Florida Division</division>
+<latitude>28.1426721</latitude>
+<longitude>-81.47619629999997</longitude>
+<coid>26450</coid>
+</item>
+<item>
+<title>Putnam Community Medical Center</title>
+<link>http://pcmcfl.com/</link>
+<category>North Central</category>
+<pubDate>Fri, 04 Aug 2017 04:14:28 EDT</pubDate>
+<description>10 Mins</description>
+<author>HCA IT&S</author>
+<comments>Putnam Community Medical Center ER Wait Time</comments>
+<phone>(386) 328-5711</phone>
+<address>611 Zeagler Dr, Palatka, FL 32177</address>
+<city>Palatka</city>
+<state>FL</state>
+<zipCode>32177</zipCode>
+<division>North Florida Division</division>
+<latitude>29.644807</latitude>
+<longitude>-81.69431099999997</longitude>
+<entityBrandingId>05448|Putnam-Community-Medical-Center</entityBrandingId>
+<coid>26760</coid>
+<displayName>Putnam Community Medical Center</displayName>
+</item>
+<item>
+<title>Summerfield ER</title>
+<link>http://ocalahealthsystem.com/</link>
+<category>Central</category>
+<pubDate>Fri, 04 Aug 2017 04:14:28 EDT</pubDate>
+<description>0 Mins</description>
+<author>HCA IT&S</author>
+<comments>Summerfield ER ER Wait Time</comments>
+<phone>(352) 245-4440</phone>
+<address>14193 S US HWY 441, Summerfield, FL 34491</address>
+<city>Summerfield</city>
+<state>FL</state>
+<zipCode>34491</zipCode>
+<division>North Florida Division</division>
+<latitude>29.017633</latitude>
+<longitude>-82.013227</longitude>
+<coid>30927</coid>
+</item>
+<item>
+<title>Twin Cities</title>
+<link>http://tchospital.com</link>
+<category>Panhandle</category>
+<pubDate>Fri, 04 Aug 2017 03:14:28 CDT</pubDate>
+<description>4 Mins</description>
+<author>HCA IT&S</author>
+<comments>Twin Cities Hospital ER Wait Time</comments>
+<phone>(850) 678-4131</phone>
+<address>2190 Hwy 85 N, Niceville, FL 32578</address>
+<city>Niceville</city>
+<state>FL</state>
+<zipCode>32578</zipCode>
+<division>North Florida Division</division>
+<latitude>30.533571999999999</latitude>
+<longitude>-86.495594999999994</longitude>
+<entityBrandingId>30948|Twin-Cities</entityBrandingId>
+<coid>30948</coid>
+<displayName>Twin Cities Hospital</displayName>
+</item>
+<item>
+<title>Twin Cities Peds</title>
+<link>http://tchospital.com</link>
+<category>Panhandle</category>
+<pubDate>Fri, 04 Aug 2017 03:14:28 CDT</pubDate>
+<description>6 Mins</description>
+<author>HCA IT&S</author>
+<comments>Twin Cities Hospital Pediatrics ER Wait Time</comments>
+<phone>(850) 678-4131</phone>
+<address>2190 Hwy 85 N, Niceville, FL 32578</address>
+<city>Niceville</city>
+<state>FL</state>
+<zipCode>32578</zipCode>
+<division>North Florida Division</division>
+<latitude>30.533571999999999</latitude>
+<longitude>-86.495594999999994</longitude>
+<coid>30948</coid>
+</item>
+<item>
+<title>West Florida</title>
+<link>http://westfloridahospital.com/</link>
+<category>Panhandle</category>
+<pubDate>Fri, 04 Aug 2017 03:14:28 CDT</pubDate>
+<description>15 Mins</description>
+<author>HCA IT&S</author>
+<comments>West Florida Hospital ER Wait Time</comments>
+<phone>(850) 494-3212</phone>
+<address>8383 N Davis Hwy, Pensacola, FL 32514</address>
+<city>Pensacola</city>
+<state>FL</state>
+<zipCode>32514</zipCode>
+<division>North Florida Division</division>
+<latitude>30.515953</latitude>
+<longitude>-87.218235000000007</longitude>
+<entityBrandingId>30928|West-Florida-Hospital</entityBrandingId>
+<coid>30928</coid>
+<displayName>West Florida Hospital</displayName>
+</item>
+<item>
+<title>West Florida Peds</title>
+<link>http://westfloridahospital.com/</link>
+<category>Panhandle</category>
+<pubDate>Fri, 04 Aug 2017 03:14:28 CDT</pubDate>
+<description>0 Mins</description>
+<author>HCA IT&S</author>
+<comments>West Florida Hospital Pediatrics ER Wait Time</comments>
+<phone>(850) 494-3212</phone>
+<address>8383 N Davis Hwy, Pensacola, FL 32514</address>
+<city>Pensacola</city>
+<state>FL</state>
+<zipCode>32514</zipCode>
+<division>North Florida Division</division>
+<latitude>30.515953</latitude>
+<longitude>-87.218235000000007</longitude>
+<coid>30928</coid>
+</item>
+<item>
+<title>West Marion</title>
+<link>http://ocalahealthsystem.com/</link>
+<category>Central</category>
+<pubDate>Fri, 04 Aug 2017 04:14:28 EDT</pubDate>
+<description>5 Mins</description>
+<author>HCA IT&S</author>
+<comments>West Marion Hospital ER Wait Time</comments>
+<phone>(352) 291-3000</phone>
+<address>4600 SW 46th Ct, Ocala, FL 34474</address>
+<city>Ocala</city>
+<state>FL</state>
+<zipCode>34474</zipCode>
+<division>North Florida Division</division>
+<latitude>29.140796000000002</latitude>
+<longitude>-82.199808000000004</longitude>
+<entityBrandingId>30927|Ocala-Regional-Medical-Center</entityBrandingId>
+<coid>30927</coid>
+<displayName>West Marion Community Hospital</displayName>
+</item>
+<item>
+<title>West Marion Peds</title>
+<link>http://ocalahealthsystem.com/</link>
+<category>Central</category>
+<pubDate>Fri, 04 Aug 2017 04:14:28 EDT</pubDate>
+<description>6 Mins</description>
+<author>HCA IT&S</author>
+<comments>West Marion Hospital Pediatrics ER Wait Time</comments>
+<phone>(352) 291-3000</phone>
+<address>4600 SW 46th Ct, Ocala, FL 34474</address>
+<city>Ocala</city>
+<state>FL</state>
+<zipCode>34474</zipCode>
+<division>North Florida Division</division>
+<latitude>29.140796000000002</latitude>
+<longitude>-82.199808000000004</longitude>
+<coid>30927</coid>
+</item>
+</channel>
+</rss>

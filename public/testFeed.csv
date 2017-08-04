@@ -1,0 +1,4 @@
+productId,name,description,imageUrl,engineSize,colour,mileage,year,fuel,option2,option3,option4,option5,option6,option7,option8
+123,VW Golf 2.0L,VW Golf 2L Diesel,,2.0L,Black,22000,2015,Diesel,Manual,Sunroof,DAB Radio,,,,
+124,Audi A4 Avant,Audi A4 Avant 2L,,2.0L,White,18500,2016,Diesel,Manual,Estate,Parking Assist,Cruise Control,,,
+125,BMW 1,BMW 1 Series 1.8L,,1.8L,Blue,6500,2016,Petrol,Manual,Cruise Control,,,,,
